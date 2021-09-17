@@ -1,0 +1,1482 @@
+# Translation of UpdraftPlus in Spanish (Mexico)
+# This file is distributed under the same license as the UpdraftPlus package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-28 22:25:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: es_MX\n"
+"Project-Id-Version: UpdraftPlus\n"
+
+#: src/udaddons/options.php:503
+msgid "Buy %s"
+msgstr ""
+
+#: src/udaddons/options.php:502
+msgid "Get %s from the UpdraftPlus.com Store"
+msgstr ""
+
+#: src/udaddons/options.php:496
+msgid "%s available to claim on this site. Follow this link to activate this licence"
+msgstr ""
+
+#: src/udaddons/options.php:305
+msgid "The claim and installation was successful. You can now use your purchase!"
+msgstr ""
+
+#: src/udaddons/options.php:261
+msgid "Go to your UpdraftCentral Cloud dashboard"
+msgstr ""
+
+#: src/udaddons/options.php:260
+msgid "You successfully logged in to UpdraftPlus and connected this site to UpdraftCentral Cloud."
+msgstr ""
+
+#: src/udaddons/options.php:225
+msgid "You have installed this plugin in your plugins folder (%s) with a non-default name %s which is different to %s. This is incompatible with WordPress's updates mechanism; you will not be able to receive updates."
+msgstr ""
+
+#: src/templates/wp-admin/settings/take-backup.php:89
+msgid "Perform a backup"
+msgstr ""
+
+#: src/templates/wp-admin/settings/tab-addons.php:325,
+#: src/templates/wp-admin/settings/tab-addons.php:326
+msgid "Create powerful, seo-optimized slideshows in minutes"
+msgstr ""
+
+#: src/templates/wp-admin/settings/tab-addons.php:320,
+#: src/templates/wp-admin/settings/tab-addons.php:321
+msgid "Keep your database fast and efficient"
+msgstr ""
+
+#: src/templates/wp-admin/settings/tab-addons.php:315,
+#: src/templates/wp-admin/settings/tab-addons.php:316
+msgid "Manage multiple WordPress sites from one central dashboard"
+msgstr ""
+
+#: src/templates/wp-admin/settings/tab-addons.php:311
+msgid "More great plugins by the Updraft Team"
+msgstr ""
+
+#: src/templates/wp-admin/settings/tab-addons.php:115
+msgid "Allows you to only backup changes to your files (such as a new image) that have been made to your site since the last backup."
+msgstr ""
+
+#: src/templates/wp-admin/settings/tab-addons.php:113,
+#: src/templates/wp-admin/settings/tab-addons.php:114
+msgid "Incremental backups"
+msgstr ""
+
+#: src/templates/wp-admin/settings/tab-addons.php:57
+msgid "Follow this link to the installation instructions (particularly step 1)."
+msgstr ""
+
+#: src/templates/wp-admin/settings/tab-addons.php:56
+msgid "You successfully purchased UpdraftPremium."
+msgstr ""
+
+#: src/templates/wp-admin/settings/tab-addons.php:39
+msgid "Goes to updraftplus.com checkout page"
+msgstr ""
+
+#: src/templates/wp-admin/settings/tab-addons.php:38
+msgid "Goes to the updraftplus.com checkout page"
+msgstr ""
+
+#: src/templates/wp-admin/settings/tab-addons.php:38
+msgid "Get %s here"
+msgstr ""
+
+#: src/templates/wp-admin/settings/form-contents.php:310
+msgid "The higher the value, the more server resources are required to create the archive."
+msgstr ""
+
+#: src/templates/wp-admin/settings/form-contents.php:88
+msgid "to take incremental backups"
+msgstr ""
+
+#: src/templates/wp-admin/settings/form-contents.php:76
+msgid "Retain this many scheduled database backups"
+msgstr ""
+
+#: src/templates/wp-admin/settings/form-contents.php:42
+msgid "Retain this many scheduled file backups"
+msgstr ""
+
+#: src/templates/wp-admin/settings/file-backup-exclude.php:18
+msgid "Add an exclusion rule for %s"
+msgstr ""
+
+#: src/templates/wp-admin/settings/existing-backups-table.php:171
+msgid "Use ctrl / cmd + press to select several items, or ctrl / cmd + shift + press to select all in between"
+msgstr ""
+
+#: src/templates/wp-admin/settings/existing-backups-table.php:170
+msgid "Deselect all backups"
+msgstr ""
+
+#: src/templates/wp-admin/settings/existing-backups-table.php:169
+msgid "Select all backups"
+msgstr ""
+
+#: src/templates/wp-admin/settings/existing-backups-table.php:168
+msgid "Delete selected backups"
+msgstr ""
+
+#: src/templates/wp-admin/settings/existing-backups-table.php:159
+msgid "Show all backups..."
+msgstr ""
+
+#: src/templates/wp-admin/settings/existing-backups-table.php:159
+msgid "Show more backups..."
+msgstr ""
+
+#: src/templates/wp-admin/settings/delete-and-restore-modals.php:63
+msgid "Choose the components to restore:"
+msgstr ""
+
+#: src/templates/wp-admin/settings/delete-and-restore-modals.php:30
+msgid "Restore files from"
+msgstr ""
+
+#: src/templates/wp-admin/settings/backupnow-modal.php:20,
+#: src/templates/wp-admin/settings/backupnow-modal.php:67
+msgid "Find out more about incremental backups here."
+msgstr ""
+
+#: src/templates/wp-admin/settings/backupnow-modal.php:17
+msgid "Incremental backups are a feature of %s (upgrade by following this link)."
+msgstr ""
+
+#: src/templates/wp-admin/settings/backupnow-modal.php:13
+msgid "Take an incremental backup"
+msgstr ""
+
+#: src/templates/wp-admin/settings/backupnow-modal.php:12
+msgid "Take a new backup"
+msgstr ""
+
+#: src/templates/wp-admin/notices/thanks-for-using-main-dash.php:23
+msgid "Makes your site fast and efficient. It cleans the database, compresses images and caches pages for ultimate speed."
+msgstr ""
+
+#: src/restorer.php:3178
+msgid "The Database connection has been closed and cannot be reopened."
+msgstr ""
+
+#: src/restorer.php:2913
+msgid "Skipping table %s: already restored on a prior run; next table to restore: %s"
+msgstr ""
+
+#: src/restorer.php:2910
+msgid "Skipping table %s: user has chosen not to restore this table"
+msgstr ""
+
+#: src/restorer.php:2254
+msgid "Found and replaced existing table foreign key constraints as the table prefix has changed."
+msgstr ""
+
+#: src/restorer.php:2141
+msgid "An error occurred while attempting to set a new value to the MySQL global log_bin_trust_function_creators variable %s"
+msgstr ""
+
+#: src/restorer.php:2134
+msgid "An error occurred while attempting to retrieve the MySQL global log_bin_trust_function_creators variable %s"
+msgstr ""
+
+#: src/restorer.php:1127
+msgid "The directory does not exist, and the attempt to create it failed"
+msgstr ""
+
+#: src/restorer.php:728
+msgid "Could not delete old path."
+msgstr ""
+
+#: src/methods/updraftvault.php:392
+msgid "Follow this link for help"
+msgstr ""
+
+#: src/methods/updraftvault.php:388
+msgid "Please enter your %s password"
+msgstr ""
+
+#: src/methods/updraftvault.php:387
+msgid "Please enter your %s email address"
+msgstr ""
+
+#: src/methods/updraftvault.php:357, src/methods/updraftvault.php:364,
+#: src/methods/updraftvault.php:371
+msgid "Start Subscription"
+msgstr ""
+
+#: src/methods/updraftvault.php:357, src/methods/updraftvault.php:364,
+#: src/methods/updraftvault.php:371
+msgid "Start %s Subscription"
+msgstr ""
+
+#: src/methods/updraftvault.php:350
+msgid "Start Trial"
+msgstr ""
+
+#: src/methods/updraftvault.php:350
+msgid "Start %s Trial"
+msgstr ""
+
+#: src/methods/updraftvault.php:350, src/methods/updraftvault.php:357,
+#: src/methods/updraftvault.php:364, src/methods/updraftvault.php:371
+msgid "Start a %s UpdraftVault Subscription"
+msgstr ""
+
+#: src/methods/updraftvault.php:349
+msgid "%s month %s trial"
+msgstr ""
+
+#: src/methods/updraftvault.php:348
+msgid "with the option of"
+msgstr ""
+
+#: src/methods/updraftvault.php:337, src/methods/updraftvault.php:378
+msgid "Read more about %s here."
+msgstr ""
+
+#: src/methods/updraftvault.php:334
+msgid "Connect to your %s account"
+msgstr ""
+
+#: src/methods/updraftvault.php:333
+msgid "Already got space?"
+msgstr ""
+
+#: src/methods/updraftvault.php:329, src/methods/updraftvault.php:330
+msgid "Need to get space?"
+msgstr ""
+
+#: src/methods/s3.php:185, src/methods/s3.php:186, src/methods/s3.php:198,
+#: src/methods/s3.php:199
+msgid "Error: Failed to initialise"
+msgstr ""
+
+#: src/methods/ftp.php:148
+msgid "upload failed"
+msgstr ""
+
+#: src/methods/ftp.php:121, src/methods/ftp.php:289
+msgid "login failure"
+msgstr ""
+
+#: src/methods/cloudfiles.php:216, src/methods/cloudfiles.php:217
+msgid "error - failed to upload file"
+msgstr ""
+
+#: src/methods/cloudfiles.php:209
+msgid "error - failed to re-assemble chunks"
+msgstr ""
+
+#: src/methods/cloudfiles.php:101, src/methods/cloudfiles.php:346,
+#: src/methods/cloudfiles.php:358
+msgid "error - failed to create and access the container"
+msgstr ""
+
+#: src/methods/cloudfiles.php:93, src/methods/cloudfiles.php:97,
+#: src/methods/cloudfiles.php:290, src/methods/cloudfiles.php:338,
+#: src/methods/cloudfiles.php:342
+msgid "authentication failed"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:188
+msgid "Otherwise, you can try UpdraftVault for 1 month for only $1!"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:187
+msgid "If you have a valid Premium license, you get 1GB of storage included."
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:134
+msgid "Try UpdraftVault for 1 month for only $1!"
+msgstr ""
+
+#: src/includes/updraftplus-notices.php:181
+msgid "manages all your WordPress sites at once from one place"
+msgstr ""
+
+#: src/includes/updraftplus-notices.php:181
+msgid "Many sites?"
+msgstr ""
+
+#: src/includes/updraftplus-notices.php:180
+msgid "handles updates automatically as you want them"
+msgstr ""
+
+#: src/includes/updraftplus-notices.php:180
+msgid "Save time"
+msgstr ""
+
+#: src/includes/updraftplus-notices.php:179
+msgid "backs up automatically when you update plugins, themes or core"
+msgstr ""
+
+#: src/includes/updraftplus-notices.php:179
+msgid "Be safe"
+msgstr ""
+
+#: src/includes/updraftplus-notices.php:178
+msgid "Make updates easy with UpdraftPlus"
+msgstr ""
+
+#: src/includes/updraftplus-clone.php:107
+msgid "Clone of %s"
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-dash-notice.php:47
+msgid "%d token"
+msgid_plural "%d tokens"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/includes/updraftclone/temporary-clone-dash-notice.php:47
+msgid "Each time your clone renews (weekly) it costs %s. You can shut this clone down at the following link:"
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-dash-notice.php:36
+msgid "%s from now"
+msgstr ""
+
+#: src/includes/class-wpadmin-commands.php:236
+msgid "The backup archive files have been processed, but with some warnings. If all is well, then press Restore to proceed. Otherwise, cancel and correct any problems first."
+msgstr ""
+
+#: src/includes/class-wpadmin-commands.php:234
+msgid "The backup archive files have been successfully processed. Now press Restore to proceed."
+msgstr ""
+
+#: src/includes/class-wpadmin-commands.php:216
+msgid "This backup set contains incremental backups of your files; please select the time you wish to restore your files to"
+msgstr ""
+
+#: src/includes/class-remote-send.php:527
+msgid "The setting %s is turned on in your PHP settings. It is deprecated, causes encryption to malfunction, and should be turned off."
+msgstr ""
+
+#: src/includes/class-filesystem-functions.php:534
+msgid "Unzip progress: %d out of %d files"
+msgstr ""
+
+#: src/includes/class-database-utility.php:646
+msgid "An error occurred while attempting to retrieve the routine SQL/DDL statement (%s %s)"
+msgstr ""
+
+#: src/includes/class-database-utility.php:634
+msgid "An error occurred while attempting to retrieve routine status (%s %s)"
+msgstr ""
+
+#: src/includes/class-database-utility.php:566
+msgid "An error occurred while attempting to check the support of stored routines creation (%s %s)"
+msgstr ""
+
+#: src/includes/class-commands.php:960, src/includes/class-commands.php:962
+msgid "N.B. You will be charged one token once the clone is ready. If the clone fails to boot, then no token will be taken."
+msgstr ""
+
+#: src/includes/class-commands.php:960
+msgid "No backup will be started. The creation of your clone should now begin, and your WordPress username and password will be displayed below when ready."
+msgstr ""
+
+#: src/class-updraftplus.php:4911
+msgid "If you do not want to restore all your tables, then choose some to exclude here."
+msgstr ""
+
+#: src/class-updraftplus.php:4645
+msgid "You should only proceed if you have checked and are confident (or willing to risk) that your plugins/themes/etc. are compatible with the new %s version."
+msgstr ""
+
+#: src/class-updraftplus.php:4645
+msgid "This is older than the server which you are now restoring onto (version %s)."
+msgstr ""
+
+#: src/class-updraftplus.php:3389
+msgid "Incomplete"
+msgstr ""
+
+#: src/class-updraftplus.php:2247
+msgid "The backup is being aborted for a repeated failure to progress."
+msgstr ""
+
+#: src/class-updraftplus.php:630
+msgid "Briefly unavailable for scheduled maintenance. Check back in a minute."
+msgstr ""
+
+#: src/class-updraftplus.php:630
+msgid "Under Maintenance"
+msgstr ""
+
+#: src/central/modules/posts.php:1048
+msgid "Expected parameter(s) missing."
+msgstr ""
+
+#: src/central/modules/posts.php:745, src/central/modules/posts.php:810
+msgid "$result->get_error_message"
+msgstr ""
+
+#: src/central/modules/posts.php:177
+msgid "Default template"
+msgstr ""
+
+#: src/central/modules/media.php:454
+msgid "Unattached"
+msgstr ""
+
+#: src/central/modules/media.php:392
+msgid "Selected media has been deleted successfully."
+msgstr ""
+
+#: src/central/modules/media.php:389
+msgid "Failed to delete selected media."
+msgstr ""
+
+#: src/central/modules/media.php:376
+msgid "Media has been detached from post."
+msgstr ""
+
+#: src/central/modules/media.php:374
+msgid "Failed to detach media."
+msgstr ""
+
+#: src/central/modules/media.php:366
+msgid "Media has been attached to post."
+msgstr ""
+
+#: src/central/modules/media.php:364
+msgid "Failed to attach media."
+msgstr ""
+
+#: src/central/commands.php:345
+msgid "Unable to install %s. Make sure that the zip file is a valid %s file and a previous version of this %s does not exist. If you wish to overwrite an existing %s then you will have to manually delete it from the %s folder on the remote website and try uploading the file again."
+msgstr ""
+
+#: src/central/commands.php:316
+msgid "Unable to activate %s successfully. Make sure that this %s is compatible with your remote WordPress version. WordPress version currently installed in your remote website is %s."
+msgstr ""
+
+#: src/central/commands.php:274
+msgid "Unable to connect to the filesystem"
+msgstr ""
+
+#: src/admin.php:5849, src/admin.php:5851
+msgid "You have requested saving to remote storage (%s), but without entering any settings for that storage."
+msgstr ""
+
+#: src/admin.php:5719
+msgid "Clone package:"
+msgstr ""
+
+#: src/admin.php:5706
+msgid "An empty WordPress install"
+msgstr ""
+
+#: src/admin.php:5705
+msgid "This current site"
+msgstr ""
+
+#: src/admin.php:5703
+msgid "Clone:"
+msgstr ""
+
+#: src/admin.php:4782,
+#: src/templates/wp-admin/settings/delete-and-restore-modals.php:98
+msgid "3. Restoration"
+msgstr ""
+
+#: src/admin.php:4781,
+#: src/templates/wp-admin/settings/delete-and-restore-modals.php:97
+msgid "2. Verifications"
+msgstr ""
+
+#: src/admin.php:4780,
+#: src/templates/wp-admin/settings/delete-and-restore-modals.php:96
+msgid "1. Component selection"
+msgstr ""
+
+#: src/admin.php:4774
+msgid "Activity log"
+msgstr ""
+
+#: src/admin.php:4767
+msgid "Cleaning"
+msgstr ""
+
+#: src/admin.php:4761
+msgid "Verifying"
+msgstr ""
+
+#: src/admin.php:4758
+msgid "Restoration progress:"
+msgstr ""
+
+#: src/admin.php:4757
+msgid "The restore operation has begun (%s). Do not close this page until it reports itself as having finished."
+msgstr ""
+
+#: src/admin.php:4748,
+#: src/templates/wp-admin/settings/delete-and-restore-modals.php:30
+msgid "UpdraftPlus Restoration"
+msgstr ""
+
+#: src/admin.php:4265
+msgid "(%d archive(s) in set, total %s)."
+msgstr ""
+
+#: src/admin.php:3114
+msgid "Learn more about UpdraftCentral"
+msgstr ""
+
+#: src/admin.php:3114
+msgid "Add this website to UpdraftCentral (remote, centralised control) - free for up to 5 sites."
+msgstr ""
+
+#: src/admin.php:2674, src/admin.php:3578, src/admin.php:4696,
+#: src/admin.php:4708, src/admin.php:4719, src/admin.php:4948,
+#: src/admin.php:5851
+msgid "Return to UpdraftPlus configuration"
+msgstr ""
+
+#: src/admin.php:2197
+msgid "No suitable backup set (that already contains a full backup of all the requested file component types) was found, to add increments to. Aborting this backup."
+msgstr ""
+
+#: src/admin.php:1978
+msgid "An error occurred while attempting to delete from '%s'."
+msgstr ""
+
+#: src/admin.php:1975
+msgid "The file may no longer exist or you may not have permission to delete."
+msgstr ""
+
+#: src/admin.php:1975
+msgid "We were unable to delete a file on '%s'."
+msgstr ""
+
+#: src/admin.php:1972
+msgid "We were unable to access a file on '%s'."
+msgstr ""
+
+#: src/admin.php:1969, src/admin.php:1972
+msgid "Please check your permissions."
+msgstr ""
+
+#: src/admin.php:1969
+msgid "We were unable to access the folder/container for '%s'."
+msgstr ""
+
+#: src/admin.php:1966
+msgid "Service unavailable."
+msgstr ""
+
+#: src/admin.php:1966
+msgid "We were unable to access '%s'."
+msgstr ""
+
+#: src/admin.php:1963
+msgid "Please check your credentials."
+msgstr ""
+
+#: src/admin.php:1963
+msgid "The authentication failed for '%s'."
+msgstr ""
+
+#: src/admin.php:1265
+msgid "Connection to your %1$s account was successful. However, we were not able to register this site with %2$s, as there are no available %2$s licences on the account."
+msgstr ""
+
+#: src/admin.php:988
+msgid "Please check the error log for more details"
+msgstr ""
+
+#: src/admin.php:987
+msgid "Missing pages:"
+msgstr ""
+
+#: src/admin.php:987
+msgid "Attempts by the browser to access some pages have returned a \"not found (404)\" error. This could mean that your .htaccess file has incorrect contents, is missing, or that your webserver is missing an equivalent mechanism."
+msgstr ""
+
+#: src/admin.php:986
+msgid "Restore error:"
+msgstr ""
+
+#: src/admin.php:985
+msgid "Attempts by the browser to contact the website failed."
+msgstr ""
+
+#: src/admin.php:984
+msgid "Preparing backup files"
+msgstr ""
+
+#: src/admin.php:983
+msgid "Downloading backup files if needed"
+msgstr ""
+
+#: src/admin.php:982
+msgid "Begun"
+msgstr ""
+
+#: src/admin.php:981, src/admin.php:4768
+msgid "Finished"
+msgstr ""
+
+#: src/admin.php:979
+msgid "Restoring %s1 files out of %s2"
+msgstr ""
+
+#: src/admin.php:978
+msgid "no recent activity; will offer resumption after: %d seconds"
+msgstr ""
+
+#: src/admin.php:977
+msgid "last activity: %d seconds ago"
+msgstr ""
+
+#: src/admin.php:974
+msgid "credentials"
+msgstr ""
+
+#: src/admin.php:972
+msgid "Try it - 1 month for $1!"
+msgstr ""
+
+#: src/admin.php:968
+msgid "Try UpdraftVault!"
+msgstr ""
+
+#: src/admin.php:967
+msgid "You have not selected a restore path for your chosen backups"
+msgstr ""
+
+#: src/admin.php:966
+msgid "HTML was detected in the response. You may have a security module on your webserver blocking the restoration operation."
+msgstr ""
+
+#: src/admin.php:965
+msgid "File backup options"
+msgstr ""
+
+#: src/admin.php:944
+msgid "Verifying one-time password..."
+msgstr ""
+
+#: src/admin.php:939
+msgid "Login successful; reloading information."
+msgstr ""
+
+#: src/admin.php:937
+msgid "Key created. Adding site to UpdraftCentral Cloud."
+msgstr ""
+
+#: src/admin.php:936
+msgid "Connected. Requesting UpdraftCentral Key."
+msgstr ""
+
+#: src/admin.php:825, src/admin.php:2046
+msgid "Existing backups"
+msgstr ""
+
+#: src/admin.php:587
+msgid "Dismiss notice"
+msgstr ""
+
+#: src/admin.php:587
+msgid "You can test running your site on a different PHP (or WordPress) version using UpdraftClone credits."
+msgstr ""
+
+#: src/admin.php:575
+msgid "dismiss notice"
+msgstr ""
+
+#: src/admin.php:575
+msgid "go here to learn more"
+msgstr ""
+
+#: src/admin.php:575
+msgid "You can test upgrading your site on an instant copy using UpdraftClone credits"
+msgstr ""
+
+#: src/addons/wp-cli.php:889
+msgid "There are no incremental backup restore points available."
+msgstr ""
+
+#: src/addons/wp-cli.php:884
+msgid "Timestamp"
+msgstr ""
+
+#: src/addons/wp-cli.php:617
+msgid "No valid components found, please select different components or a backup set with components that can be restored."
+msgstr ""
+
+#: src/addons/sftp.php:148, src/methods/cloudfiles.php:145,
+#: src/methods/cloudfiles.php:187, src/methods/openstack-base.php:81
+msgid "Error: Failed to upload"
+msgstr ""
+
+#: src/addons/s3-enhanced.php:372
+msgid "Middle East (Bahrain)"
+msgstr ""
+
+#: src/addons/s3-enhanced.php:371
+msgid "Europe (Stockholm)"
+msgstr ""
+
+#: src/addons/s3-enhanced.php:69
+msgid "Read more about server-side encryption"
+msgstr ""
+
+#: src/addons/s3-enhanced.php:64
+msgid "Intelligent Tiering"
+msgstr ""
+
+#: src/addons/morefiles.php:852
+msgid "Restore location found for:"
+msgstr ""
+
+#: src/addons/morefiles.php:850
+msgid "Restore location does not exist on the filesystem for:"
+msgstr ""
+
+#: src/addons/morefiles.php:807
+msgid "Please select the more files backups that you wish to restore:"
+msgstr ""
+
+#: src/addons/morefiles.php:805
+msgid "The original filesystem location for some of the following items was not found. Please select where you want these backups to be restored to."
+msgstr ""
+
+#: src/addons/moredatabase.php:243
+msgid "If you enter a table prefix, then only tables that begin with this prefix will be backed up."
+msgstr ""
+
+#: src/addons/moredatabase.php:243, src/addons/moredatabase.php:243
+msgid "Enter table prefix"
+msgstr ""
+
+#: src/addons/moredatabase.php:242
+msgid "Enter database"
+msgstr ""
+
+#: src/addons/moredatabase.php:242
+msgid "Enter database."
+msgstr ""
+
+#: src/addons/moredatabase.php:241
+msgid "Enter password"
+msgstr ""
+
+#: src/addons/moredatabase.php:241
+msgid "Enter password."
+msgstr ""
+
+#: src/addons/moredatabase.php:240
+msgid "Enter username"
+msgstr ""
+
+#: src/addons/moredatabase.php:240
+msgid "Enter username."
+msgstr ""
+
+#: src/addons/moredatabase.php:239
+msgid "Enter host"
+msgstr ""
+
+#: src/addons/moredatabase.php:239
+msgid "Enter host."
+msgstr ""
+
+#: src/addons/incremental.php:294
+msgid "No incremental backup of your files is possible, as no suitable existing backup was found to add increments to."
+msgstr ""
+
+#: src/addons/incremental.php:292
+msgid "N.B. No backup of your database will be taken in an incremental backup; if you want a database backup as well, then take that separately."
+msgstr ""
+
+#: src/addons/incremental.php:292
+msgid "Files changed since the last backup will be added as a new increment in that backup set."
+msgstr ""
+
+#: src/addons/googlecloud.php:1056
+msgid "Read more about bucket locations"
+msgstr ""
+
+#: src/addons/googlecloud.php:1043, src/addons/s3-enhanced.php:59
+msgid "Read more about storage classes"
+msgstr ""
+
+#: src/addons/googlecloud.php:397
+msgid "Authentication could not go ahead, because something else on your site is breaking it. Try disabling your other plugins and switching to a default theme. (Specifically, you are looking for the component that sends output (most likely PHP warnings/errors) before the page begins. Turning off any debugging settings may also help)."
+msgstr ""
+
+#: src/addons/googlecloud.php:301, src/methods/googledrive.php:1291
+msgid "download: failed: file not found"
+msgstr ""
+
+#: src/addons/googlecloud.php:208, src/addons/googlecloud.php:213,
+#: src/methods/cloudfiles.php:128, src/methods/googledrive.php:1166,
+#: src/methods/googledrive.php:1171
+msgid "Error: Failed to open local file"
+msgstr ""
+
+#: src/addons/fixtime.php:570
+msgid "Start time"
+msgstr ""
+
+#: src/addons/fixtime.php:552
+msgid "Day to run backups"
+msgstr ""
+
+#: src/addons/fixtime.php:310
+msgid "Add an additional file retention rule"
+msgstr ""
+
+#: src/addons/fixtime.php:305
+msgid "Add an additional database retention rule"
+msgstr ""
+
+#: src/addons/backblaze.php:683, src/addons/backblaze.php:684
+msgid "This is needed if, and only if, your application key was a bucket-specific application key (not a master key)"
+msgstr ""
+
+#: src/addons/backblaze.php:682
+msgid "Bucket application key ID"
+msgstr ""
+
+#: src/addons/backblaze.php:670
+msgid "Master Application Key ID"
+msgstr ""
+
+#: src/addons/backblaze.php:649
+msgid "For help configuring %s, including screenshots, follow this link."
+msgstr ""
+
+#: src/addons/azure.php:643
+msgid "Azure China"
+msgstr ""
+
+#: src/admin.php:5689
+msgid "Clone region:"
+msgstr ""
+
+#: src/udaddons/updraftplus-addons.php:310,
+#: src/udaddons/updraftplus-addons.php:322
+msgid "go here"
+msgstr ""
+
+#: src/udaddons/updraftplus-addons.php:310,
+#: src/udaddons/updraftplus-addons.php:322
+msgid "If you have already renewed, then you need to allocate a licence to this site - %s"
+msgstr ""
+
+#: src/addons/onedrive.php:875
+msgid "Authentication"
+msgstr ""
+
+#: src/admin.php:932
+msgid "You must select at least one remote storage destination to upload this backup set to."
+msgstr ""
+
+#: src/templates/wp-admin/settings/form-contents.php:351
+msgid "Read more about Easy Updates Manager"
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:68
+msgid "You can find out more about clone keys here."
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:57
+msgid "Or, use an UpdraftClone key"
+msgstr ""
+
+#: src/restorer.php:2796
+msgid "Found SET NAMES %s, but changing to %s as suggested by WPDB::determine_charset()."
+msgstr ""
+
+#: src/admin.php:963
+msgid "UpdraftClone key is required."
+msgstr ""
+
+#: src/admin.php:954
+msgid "The preparation of the clone data has been aborted."
+msgstr ""
+
+#: src/addons/azure.php:642
+msgid "Azure Government"
+msgstr ""
+
+#: src/templates/wp-admin/settings/form-contents.php:351
+msgid "Ask WordPress to automatically update UpdraftPlus when it finds an available update."
+msgstr ""
+
+#: src/templates/wp-admin/settings/form-contents.php:350
+msgid "Automatic updates"
+msgstr ""
+
+#: src/restorer.php:2485, src/restorer.php:2527
+msgid "Your database user does not have permission to drop tables"
+msgstr ""
+
+#: src/admin.php:3103
+msgid "Ask WordPress to update UpdraftPlus automatically when an update is available"
+msgstr ""
+
+#: src/addons/googlecloud.php:998
+msgid "You must add the following as the authorized redirect URI (under \"More Options\") when asked"
+msgstr ""
+
+#: src/addons/googlecloud.php:992
+msgid "%s does not allow authorization of sites hosted on direct IP addresses. You will need to change your site's address (%s) before you can use %s for storage."
+msgstr ""
+
+#: src/addons/googlecloud.php:57
+msgid "Frankfurt"
+msgstr ""
+
+#: src/addons/googlecloud.php:56
+msgid "London"
+msgstr ""
+
+#: src/addons/googlecloud.php:55
+msgid "Belgium"
+msgstr ""
+
+#: src/addons/googlecloud.php:54
+msgid "Sydney"
+msgstr ""
+
+#: src/addons/googlecloud.php:53
+msgid "Singapore"
+msgstr ""
+
+#: src/addons/googlecloud.php:52
+msgid "Tokyo"
+msgstr ""
+
+#: src/addons/googlecloud.php:51
+msgid "Taiwan"
+msgstr ""
+
+#: src/addons/googlecloud.php:50
+msgid "Oregon"
+msgstr ""
+
+#: src/addons/googlecloud.php:49
+msgid "North Virginia"
+msgstr ""
+
+#: src/addons/googlecloud.php:48
+msgid "South Carolina"
+msgstr ""
+
+#: src/addons/googlecloud.php:47
+msgid "Iowa"
+msgstr ""
+
+#: src/templates/wp-admin/settings/file-backup-exclude.php:11
+msgid "Confirm change"
+msgstr ""
+
+#: src/templates/wp-admin/settings/exclude-settings-modal/exclude-panel-submit.php:3,
+#: src/templates/wp-admin/settings/file-backup-exclude.php:18
+msgid "Add an exclusion rule"
+msgstr ""
+
+#: src/templates/wp-admin/settings/exclude-modal.php:59
+msgid "Type a file prefix"
+msgstr ""
+
+#: src/templates/wp-admin/settings/exclude-modal.php:56,
+#: src/templates/wp-admin/settings/exclude-modal.php:58
+msgid "All files beginning with these characters"
+msgstr ""
+
+#: src/templates/wp-admin/settings/exclude-modal.php:47
+msgid "Type an extension like zip"
+msgstr ""
+
+#: src/templates/wp-admin/settings/exclude-modal.php:28
+msgid "Select a file/folder which you would like to exclude"
+msgstr ""
+
+#: src/templates/wp-admin/settings/exclude-modal.php:15
+msgid "All files beginning with given characters"
+msgstr ""
+
+#: src/templates/wp-admin/settings/exclude-modal.php:12,
+#: src/templates/wp-admin/settings/exclude-modal.php:44,
+#: src/templates/wp-admin/settings/exclude-modal.php:46
+msgid "All files with this extension"
+msgstr ""
+
+#: src/templates/wp-admin/settings/exclude-modal.php:9,
+#: src/templates/wp-admin/settings/exclude-modal.php:22
+msgid "File/directory"
+msgstr ""
+
+#: src/templates/wp-admin/settings/exclude-modal.php:6
+msgid "Select a way to exclude files or directories from the backup"
+msgstr ""
+
+#: src/templates/wp-admin/settings/exclude-modal.php:2
+msgid "Exclude files/directories"
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-status.php:420
+msgid "To read FAQs/documentation about UpdraftClone, go here."
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-status.php:419
+msgid "your UpdraftPlus.com account"
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-status.php:419
+msgid "You can check the progress here or in %s"
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-status.php:419
+msgid "Your UpdraftClone is still setting up."
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-status.php:376
+msgid "%s archives remain"
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-status.php:376
+msgid "The site data has all been received, and its import has begun."
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-status.php:371
+msgid "The sending of the site data has begun. So far %s data archives totalling %s have been received"
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-status.php:367
+msgid "WordPress installed; now awaiting the site data to be sent."
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-status.php:94
+msgid "Clone ready"
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-status.php:86
+msgid "Site data has been deployed"
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-status.php:84,
+#: src/includes/updraftclone/temporary-clone-status.php:347
+msgid "Deploying site data"
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-status.php:75
+msgid "Site data received"
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-status.php:73,
+#: src/includes/updraftclone/temporary-clone-status.php:344
+msgid "Receiving site data"
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-status.php:66,
+#: src/includes/updraftclone/temporary-clone-status.php:341
+msgid "WordPress installed"
+msgstr ""
+
+#: src/admin.php:5791
+msgid "Your clone has started, network information is not yet available but will be displayed here and at your updraftplus.com account once it is ready."
+msgstr ""
+
+#: src/admin.php:3984
+msgid "Exclude these from"
+msgstr ""
+
+#: src/admin.php:962
+msgid "The exclusion rule which you are trying to add already exists"
+msgstr ""
+
+#: src/admin.php:961
+msgid "Please enter a valid file name prefix"
+msgstr ""
+
+#: src/admin.php:960
+msgid "Please enter characters that begin the filename which you would like to exclude"
+msgstr ""
+
+#: src/admin.php:959
+msgid "Please enter a valid file extension"
+msgstr ""
+
+#: src/admin.php:958
+msgid "Please enter a file extension, like zip"
+msgstr ""
+
+#: src/admin.php:957
+msgid "Please select a file/folder which you would like to exclude"
+msgstr ""
+
+#: src/admin.php:956
+msgid "Are you sure you want to remove this exclusion rule?"
+msgstr ""
+
+#: src/templates/wp-admin/advanced/site-info.php:104
+msgid "log results to console"
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:41
+msgid "To create a temporary clone you need credit in your account."
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:22
+msgid "Read FAQs here."
+msgstr ""
+
+#: src/methods/dropbox.php:303, src/methods/dropbox.php:318
+msgid "failed to upload file to %s (see log file for more)"
+msgstr ""
+
+#: src/admin.php:5787
+msgid "Dashboard:"
+msgstr ""
+
+#: src/admin.php:5786
+msgid "Front page:"
+msgstr ""
+
+#: src/admin.php:5785
+msgid "Your clone has started and will be available at the following URLs once it is ready."
+msgstr ""
+
+#: src/includes/class-commands.php:917
+msgid "manage"
+msgstr ""
+
+#: src/includes/class-commands.php:917
+msgid "Current clones"
+msgstr ""
+
+#: src/class-updraftplus.php:3307
+msgid "Your clone will now deploy this data to re-create your site."
+msgstr ""
+
+#: src/admin.php:953
+msgid "The clone has been provisioned, and its data has been sent to it. Once the clone has finished deploying it, you will receive an email."
+msgstr ""
+
+#: src/addons/migrator.php:1775
+msgid "Site key"
+msgstr ""
+
+#: src/addons/migrator.php:1766
+msgid "Add a site"
+msgstr ""
+
+#: src/addons/migrator.php:229, src/addons/migrator.php:1761,
+#: src/addons/migrator.php:1782
+msgid "back"
+msgstr ""
+
+#: src/addons/migrator.php:195
+msgid "Read this article to see step-by-step how it's done."
+msgstr ""
+
+#: src/addons/migrator.php:189,
+#: src/templates/wp-admin/settings/migrator-no-migrator.php:6
+msgid "Migrate (create a copy of a site on hosting you control)"
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-dash-notice.php:47
+msgid "Manage your clones"
+msgstr ""
+
+#: src/methods/dreamobjects.php:20
+msgid "Closing 1st October 2018"
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-dash-notice.php:46
+msgid "Your clone will renew on:"
+msgstr ""
+
+#: src/includes/updraftclone/temporary-clone-dash-notice.php:32
+msgid "Unable to get renew date"
+msgstr ""
+
+#: src/admin.php:912
+msgid "The backup was aborted"
+msgstr ""
+
+#: src/addons/onedrive.php:1205
+msgid "OneDrive Germany"
+msgstr ""
+
+#: src/addons/onedrive.php:1204
+msgid "OneDrive International"
+msgstr ""
+
+#: src/addons/onedrive.php:1201
+msgid "Account type"
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:56,
+#: src/templates/wp-admin/settings/temporary-clone.php:76
+msgid "I accept the UpdraftClone terms and conditions"
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:56
+msgid "Not got an account? Get one by buying some tokens here."
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:22,
+#: src/templates/wp-admin/settings/temporary-clone.php:41,
+#: src/templates/wp-admin/settings/temporary-clone.php:54
+msgid "You can buy UpdraftClone tokens from our shop, here."
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:54
+msgid "To create a temporary clone you need: 1) credit in your account and 2) to connect to your account, below."
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:32
+msgid "If you want, test upgrading to a different PHP or WP version."
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:32
+msgid "Flexible"
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:31
+msgid "Takes just the time needed to create a backup and send it."
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:31
+msgid "Fast"
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:30
+msgid "One VPS (Virtual Private Server) per clone, shared with nobody."
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:30
+msgid "Secure"
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:29
+msgid "Runs on capacity from a leading cloud computing provider."
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:29
+msgid "Reliable"
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:28
+msgid "Press the buttons... UpdraftClone does the work."
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:28
+msgid "Easy"
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:22
+msgid "A temporary clone is an instant copy of this website, running on our servers. Rather than test things on your live site, you can UpdraftClone it, and then throw away your clone when done."
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:10,
+#: src/templates/wp-admin/settings/temporary-clone.php:39
+msgid "Create a temporary clone on our servers (UpdraftClone)"
+msgstr ""
+
+#: src/templates/wp-admin/settings/tab-addons.php:30
+msgid "WooCommerce plugins"
+msgstr ""
+
+#: src/templates/wp-admin/advanced/wipe-settings.php:14
+msgid "Reset tour"
+msgstr ""
+
+#: src/templates/wp-admin/advanced/wipe-settings.php:13
+msgid "Press this button to take a tour of the plugin."
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:255
+msgid "Take Tour"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:205
+msgid "Log in here to enable all the features you have access to."
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:204
+msgid "Connect to updraftplus.com"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:195
+msgid "Thank you for taking the tour. You are now all set to use UpdraftPlus!"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:168
+msgctxt "Translators: UpdraftVault is a product name and should not be translated."
+msgid "To get started with UpdraftVault, select one of the options below:"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:164,
+#: src/includes/updraftplus-tour.php:197, src/includes/updraftplus-tour.php:208
+msgid "Finish"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:161
+msgid "UpdraftPlus Premium has many more exciting features!"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:160
+msgid "UpdraftPlus Premium and addons"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:158, src/includes/updraftplus-tour.php:202
+msgid "Thank you for taking the tour."
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:153
+msgid "Do you have a few more WordPress sites you want to backup? If yes you can save hours by controlling all your backups in one place from UpdraftCentral."
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:152
+msgid "Control all your backups in one place"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:147
+msgid "Congratulations, your settings have successfully been saved."
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:143
+msgid "Press here to save your settings."
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:142, src/includes/updraftplus-tour.php:146
+msgid "Save"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:139
+msgid "Look through the other settings here, making any changes you’d like."
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:138
+msgid "More settings"
+msgstr ""
+
+#: src/admin.php:970, src/includes/updraftplus-tour.php:133,
+#: src/includes/updraftplus-tour.php:161,
+#: src/includes/updraftplus-tour.php:185,
+#: src/templates/wp-admin/settings/temporary-clone.php:22
+msgid "Find out more here."
+msgstr ""
+
+#: src/admin.php:969, src/includes/updraftplus-tour.php:132,
+#: src/includes/updraftplus-tour.php:184
+msgid "UpdraftVault is our remote storage which works seamlessly with UpdraftPlus."
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:129, src/includes/updraftplus-tour.php:181
+msgid "Now select a remote storage destination to protect against server-wide threats. If not, your backups remain on the same server as your site."
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:125
+msgid "Choose the schedule that you want your backups to run on."
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:124
+msgid "Choose your backup schedule"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:120
+msgid "Congratulations! Your first backup is running."
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:116, src/includes/updraftplus-tour.php:121
+msgid "Go to settings"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:115, src/includes/updraftplus-tour.php:120
+msgctxt "Translators: %s is a bold tag."
+msgid "But to avoid server-wide threats backup regularly to remote cloud storage in %s settings %s"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:115
+msgid "Press here to run a manual backup."
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:114, src/includes/updraftplus-tour.php:119
+msgid "Creating your first backup"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:111
+msgid "Select what you want to backup"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:110
+msgid "Manual backup options"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:107
+msgctxt "updraftplus"
+msgid "To make a simple backup to your server, press this button. Or to setup regular backups and remote storage, go to %s settings %s"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:106
+msgid "Your first backup"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:102
+msgid "Press here to start!"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:99
+msgid "the world’s most trusted backup plugin!"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:99
+msgid "Welcome to UpdraftPlus"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:98
+msgid "UpdraftPlus settings"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:95
+msgid "End tour"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:94
+msgid "Skip this step"
+msgstr ""
+
+#: src/includes/updraftplus-tour.php:93
+msgid "Back"
+msgstr ""
+
+#: src/includes/class-commands.php:899
+msgid "You can buy more temporary clone tokens here."
+msgstr ""
+
+#: src/admin.php:5741
+msgid "Forbid non-administrators to login to WordPress on your clone"
+msgstr ""
+
+#: src/templates/wp-admin/settings/temporary-clone.php:35
+msgid "Temporary clones of WordPress subdomain multisite installations are not yet supported. See our documentation on how to carry out a normal migration here"
+msgstr ""
+
+#: src/templates/wp-admin/settings/tab-addons.php:286
+msgid "Premium / Find out more"
+msgstr ""
+
+#: src/templates/wp-admin/settings/tab-addons.php:29
+msgid "Other great plugins"
+msgstr ""
+
+#: src/includes/class-commands.php:962
+msgid "The creation of your data for creating the clone should now begin.

@@ -1,0 +1,79 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+.page-title {
+    font-size: 32px !important;
+    font-weight: 700 !important;
+    line-height: 1.5 !important;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+
+
+
+
+
+
+.country-flag {
+    width: 30px;
+    height: 30px;
+}
+
+.source-icon {
+    width: 8rem;
+    height: 8rem;
+}
+
+.btn.btn-whatsapp {
+    color: #fff;
+    background-color: #25D366;
+    box-shadow: 0 2px 2px 0 rgba(37, 211, 102, .14), 0 3px 1px -2px rgba(37, 211, 102, .2), 0 1px 5px 0 rgba(37, 211, 102, .12);
+}
+
+.btn.btn-whatsapp:hover {
+    color: #fff;
+    background-color: #17c558;
+    box-shadow: 0 2px 2px 0 rgba(85, 172, 238, .14), 0 3px 1px -2px rgba(85, 172, 238, .2), 0 1px 5px 0 rgba(85, 172, 238, .12);
+}
+
+.btn.btn-tumblr {
+    color: #fff;
+    background-color: #35465c;
+    box-shadow: 0 2px 2px 0 rgba(53, 70, 92, .14), 0 3px 1px -2px rgba(53, 70, 92, .2), 0 1px 5px 0 rgba(53, 70, 92, .12)
+}
+
+.btn.btn-tumblr.focus, .btn.btn-tumblr:focus, .btn.btn-tumblr:hover {
+    color: #fff;
+    background-color: #2f3f52;
+}
+
+.btn-reddit {
+    color: #fff;
+    background-color: #ff4500;
+    box-shadow: 0 2px 2px 0 rgba(255, 69, 0, .14), 0 3px 1px -2px rgba(255, 69, 0, .2), 0 1px 5px 0 rgba(255, 69, 0, .12)
+}
+
+.btn.btn-reddit.focus, .btn.btn-reddit:focus, .btn.btn-reddit:hover {
+    color: #fff;
+    background-color: #ff500f;
+}
+
+.btn-paste {
+    min-width: 78px;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+    line-height: 60px;
+    border-radius: 0;
+    background-color: white !important;
+    color: black;
+    border: 0 ;
+    box-shadow: 0;
+}
+
+.btn-paste:hover:active:focus     {
+    background-color: white !important;
+    color: black !important;
+    border: 0 !important;
+    box-shadow: 0 0 0 !important;
+}
